@@ -1,0 +1,21 @@
+.team-heading {
+  background: linear-gradient(to right, #16222a, #3a6073);
+  color: white;
+  font-family: "Playfair Display", serif;
+}
+
+.heading {
+  font-size: 60px;
+}
+
+.employee-card {
+  background-color: #9dc7c8;
+  font-family: "Playfair Display", serif;
+  margin: 20px 20px;
+  width: 25%;
+  text-transform: capitalize;
+  box-shadow: 2px 3px 9px 0px;
+}
+.team-area {
+  flex-wrap: wrap;
+}

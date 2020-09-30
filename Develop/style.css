@@ -1,5 +1,5 @@
 .team-heading {
-  background: linear-gradient(to right, #16222a, #3a6073);
+  background: linear-gradient(to right, #375b74, #67808d);
   color: white;
   font-family: "Playfair Display", serif;
 }
@@ -9,7 +9,7 @@
 }
 
 .employee-card {
-  background-color: #9dc7c8;
+  background-color: skyblue;
   font-family: "Playfair Display", serif;
   margin: 20px 20px;
   width: 25%;
